@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AmaderDhan",
+  "description": "An integrated platform to restore Bangladesh's natural rice ecosystem using AI-driven soil analysis, a native seed library, and a direct-to-consumer marketplace for farmers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
